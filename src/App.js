@@ -1,10 +1,11 @@
 import React from "react";
-import Pix from '../src/components/pix/Pix'
+import Routes from "./Routes";
+
 
 function App() {
   return (
     <>
-        <Pix />
+      <Routes />
     </>
   );
 }

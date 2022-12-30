@@ -6,7 +6,7 @@ export default function Pix() {
     return (
         <>
         <Grid container justifyContent={'center'}>
-        
+        skjdfldksj
         </Grid>
         </>
     )
