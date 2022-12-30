@@ -1,10 +1,10 @@
 import React from "react";
-import Pix from './components/pix/Pix';
+import Pix from '../src/components/pix/Pix'
 
 function App() {
   return (
     <>
-      <Pix />
+        <Pix />
     </>
   );
 }
